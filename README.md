@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raúl</h1>
-- 🔭 I’m currently working on **iOS & Swift**
+- 🔭 I’m currently working on **iOS & Swift - The Complete iOS App Development Bootcamp**
 
 - 🌱 I’m currently learning **Computer Science & Engineering**
 
