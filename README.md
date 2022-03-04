@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Raúl</h1>
+<h1 align="center">Hi, I'm Raúl 👋</h1>
+
+<br/>
+
+<p align="center"><img src="https://i.pinimg.com/originals/74/72/34/7472349a990e2e2cf0124eafc9b5faf0.gif" /></p>
+
+<br/>
 
 - 🔭 I’m currently learning **iOS & Swift**
 
