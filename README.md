@@ -20,7 +20,7 @@
 </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
 </a> <a href="https://developer.apple.com/swiftui/" target="_blank" rel="noreferrer"> <img src="https://cfeapps.com/wp-content/uploads/2020/04/SwiftUI-la-nueva-forma-de-crear-Apps2.png" alt="swiftui" width="40" height="40"/>
-</a> <a href="https://www.oracle.com/es/database/technologies/appdev/sqldeveloper-landing.html" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.png" alt="oracle_sql" width="40" height="40"/>
+</a> <a href="https://www.oracle.com/es/database/technologies/appdev/sqldeveloper-landing.html" target="_blank" rel="noreferrer"> <img src="https://www.salvis.com/blog/wp-content/uploads/2020/08/sqlcl.png" alt="oracle_sql" width="40" height="40"/>
 </p>
 
   
@@ -30,6 +30,7 @@
 </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-1-1.png" alt="illustrator" width="40" height="40"/>
 </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-1.png" alt="photoshop" width="40" height="40"/>
+</a> <a href="https://www.adobe.com/es/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="40" height="40"/>
 </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </a> <a href="https://www.autodesk.es/products/fusion-360/overview" target="_blank" rel="noreferrer"> <img src="https://www.fundaciocim.org/sites/default/media/styles/facebook/public/cimupc-cad-fusion-360.png?itok=ynjmABmA" alt="fusion360" width="40" height="40"/>
 </a> <a href="https://ultimaker.com/es/software/ultimaker-cura" target="_blank" rel="noreferrer"> <img src="https://bitfab.io/wp-content/uploads/2019/04/cura-logo.png" alt="ultimakercura" width="40" height="40"/>
