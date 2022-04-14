@@ -18,7 +18,6 @@
 </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
 </a> <a href="https://developer.apple.com/swiftui/" target="_blank" rel="noreferrer"> <img src="https://cfeapps.com/wp-content/uploads/2020/04/SwiftUI-la-nueva-forma-de-crear-Apps2.png" alt="swiftui" width="40" height="40"/>
-</a> <a href="https://www.oracle.com/es/database/technologies/appdev/sqldeveloper-landing.html" target="_blank" rel="noreferrer"> <img src="https://www.salvis.com/blog/wp-content/uploads/2020/08/sqlcl.png" alt="oracle_sql" width="40" height="40"/>
 </p>
 
   
