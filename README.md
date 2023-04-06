@@ -21,6 +21,7 @@
 </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
 </a> <a href="https://developer.apple.com/swiftui/" target="_blank" rel="noreferrer"> <img src="https://cfeapps.com/wp-content/uploads/2020/04/SwiftUI-la-nueva-forma-de-crear-Apps2.png" alt="swiftui" width="40" height="40"/>
 </a> <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/>
+</a> <a href="https://nodejs.org/es" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodejs" width="40" height="40"/>
 </p>
 
   
@@ -32,7 +33,6 @@
 </a> <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/it/7/7b/Icona_Xcode.png" alt="xcode" width="40" height="40"/>
 </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-1-1.png" alt="illustrator" width="40" height="40"/>
 </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-1.png" alt="photoshop" width="40" height="40"/>
-</a> <a href="https://www.adobe.com/es/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="40" height="40"/>
 </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/66/8c/cc/668cccb3f734f342e07c0185e6d9a975.png" alt="figma" width="40" height="40"/>
 </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </a> <a href="https://www.autodesk.es/products/fusion-360/overview" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/480/autodesk-fusion-360.png" alt="fusion360" width="40" height="40"/>
