@@ -42,6 +42,4 @@
 </p>
 
 <h3 align="left">Stats:</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raulmla&repo=github-readme-stats" />
-</a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RaulMLA&theme=dark&hide_border=true)](https://git.io/streak-stats)
