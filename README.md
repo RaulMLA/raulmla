@@ -40,3 +40,8 @@
 </a> <a href="https://www.prusa3d.com/es/pagina/prusaslicer_424/" target="_blank" rel="noreferrer"> <img src="https://images.cults3d.com/dQ1ZLvHIFcmCps0Qt_u2zrYSK_g=/516x516/https://files.cults3d.com/uploaders/14685099/illustration-file/327dd629-5f35-4b32-82fc-ffc5566f07a9/PrusaSlicer-1.png" alt="prusaslicer" width="40" height="40"/>
 </a> <a href="https://www.vegascreativesoftware.com/index.php?id=351&_oB=vegas-pro-365&_oC=subscription&_oD=12m12m&L=52&AffiliateID=178&phash=LjmUipAVFVxrmmmH&gclid=CjwKCAjwqauVBhBGEiwAXOepkasHuOglA52Pk6kJn7lde2OXO6u0iB90QjgwVjZ_r3erZtz_glmISRoCDasQAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="vegaspro" width="40" height="40"/>
 </p>
+
+<h3 align="left">Stats:</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raulmla&repo=github-readme-stats" />
+</a>
