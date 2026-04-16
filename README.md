@@ -2,9 +2,9 @@
 
 <p align="center"><img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" height="300"/></p>
 
-- 🌱 **Computer Science & Engineering** graduate
-- 💡 Interested in **Software Engineering**
-- 🔭 Currently learning **iOS App Development** and **Web Development**
+- 💻 **Software Engineer**
+- 🤖 Deeply engaged with **AI in software development**
+- 💡 Interested in **building scalable and impactful systems**
 - 🧠 Always looking for **challenges** and **opportunities** to **learn** and **grow**
 
 ## 📊 Stats
